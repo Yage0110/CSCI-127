@@ -1,0 +1,11 @@
+# Jay Bacchus
+# Email: agyei.bacchus92@myhunter.cuny.edu
+# Programs that uses unix to print Hello World
+
+
+
+#!/bin/bash 
+
+echo "Hello World"
+$ chmod +x helloScript
+
