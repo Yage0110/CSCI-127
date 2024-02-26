@@ -1,4 +1,4 @@
-#Jay Bacchus
+#Agyei Bacchus
 #agyei.bacchus92@myhunter.cuny.edu
 #Sample program that loops from 50 down to 0
 
