@@ -1,4 +1,4 @@
-#Name:  Jay Bacchus
+#Name:  Agyei Bacchus
 #Email: agyei.bacchus92@myhunter.cuny.edu
 #Splice a logo
 
