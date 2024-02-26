@@ -1,4 +1,4 @@
-#Jay Bacchus 
+#Agyei Bacchus 
 #Email: agyei.bacchus92@myhunter.cuny.edu 
 #NYC Map
 
