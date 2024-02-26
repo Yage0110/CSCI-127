@@ -1,4 +1,4 @@
-# Jay Bacchus
+# Agyei Bacchus
 # Email: agyei.bacchus92@myhunter.cuny.edu
 # Program that encrypts a message
 Word = input("Enter a word: ")
