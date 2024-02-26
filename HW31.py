@@ -1,4 +1,4 @@
-#Name:  Jay Bacchus
+#Name:  Agyei Bacchus
 #Email: agyei.bacchus92@myhunter.cuny.edu
 #Creates a shelter census
 
