@@ -1,4 +1,4 @@
-//Jay Bacchus
+//Agyei Bacchus
 //agyei.bacchus92@myhunter.cuny.edu
 //Population
 
