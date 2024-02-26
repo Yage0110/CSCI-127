@@ -1,4 +1,4 @@
-//Jay Bacchus
+//Agyei Bacchus
 //agyei.bacchus92@myhunter.cuny.edu
 //Mihi cura futuri in C++
 
