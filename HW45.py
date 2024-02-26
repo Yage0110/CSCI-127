@@ -1,4 +1,4 @@
-# Jay Bacchus
+# Agyei Bacchus
 # Email: agyei.bacchus92@myhunter.cuny.edu
 #A template for a program that finds & marks closest point.
 
