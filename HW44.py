@@ -1,4 +1,4 @@
-# Jay Bacchus
+# Agyei Bacchus
 # Email: agyei.bacchus92@myhunter.cuny.edu
 #A program that converts hex numbers to decimal, but filled with errors...  
 
