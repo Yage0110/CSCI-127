@@ -15,7 +15,7 @@ Table of Contents
 	
 	
 
-# #Assignments:
+# # Assignments:
 
 
 
@@ -147,7 +147,7 @@ Two's Complement - [Two's complement in C++](https://github.com/Yage0110/CSCI-12
 		
 		
 
-# #Installation and Usage:
+# # Installation and Usage:
 
 These scripts require Python 3.x. To run any script, use the following command:
 
@@ -192,7 +192,7 @@ To compile and run a specific C++ file, use the following commands:
 
 
 
-# #Contributions:
+# # Contributions:
 
 This project is a personal academic submission and is not open for contributions.
 
@@ -200,7 +200,7 @@ This project is a personal academic submission and is not open for contributions
 
 
 
-# #Contact:
+# # Contact:
 Agyei Bacchus
 
 agyeibacchus1@gmail.com
