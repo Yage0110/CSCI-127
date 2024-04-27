@@ -1,9 +1,9 @@
 ****Python Homework Assignments - Intro to Computer Science****
 
-Description:
+**Description:**
 This repository contains all my homework assignments from the Intro to Computer Science class, which primarily focuses on Python but also includes several C++ programs. Each assignment explores different aspects of programming, from basic syntax and constructs to more complex operations involving data structures, file I/O, and graphical representations.
 
-Table of Contents
+**Table of Contents**
 
 [Assignments](#assignments)
 
@@ -19,7 +19,7 @@ Table of Contents
 
 
 
-Python:
+**Python:**
 
 Each link goes to the folder or file within this repository for the assignment:
 
@@ -126,7 +126,7 @@ Loop Countdown - [Sample program that loops from 50 down to 0](https://github.co
 Count Python Files - [Counting .py files](https://github.com/Yage0110/CSCI-127/blob/main/HW52.py)
 
 
-C++:
+**C++:**
 
 		
 Hello World in C++ - [Hello World in C++](https://github.com/Yage0110/CSCI-127/blob/main/HW53.py)
