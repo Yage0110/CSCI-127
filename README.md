@@ -5,13 +5,13 @@ This repository contains all my homework assignments from the Intro to Computer 
 
 Table of Contents
 
-[Assignments](#Assignments)
+[Assignments](#assignments)
 
-[Installation and Usage](#InstallationandUsage)
+[Installation and Usage](#installation-and-usage)
 
-[Contributions](#Contrabutions)
+[Contributions](#contrabutions)
 
-[Contact](#Contact)
+[Contact](#contact)
 	
 	
 
