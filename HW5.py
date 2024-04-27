@@ -1,6 +1,6 @@
 # Agyei Bacchus
 # Email: agyei.bacchus92@myhunter.cuny.edu
-# This program prints Hello, World!
+# This program prints a star using turtle
 import turtle
 #Create a turtle 
 star = turtle.Turtle()
