@@ -1,4 +1,4 @@
-Python Homework Assignments - Intro to Computer Science
+****Python Homework Assignments - Intro to Computer Science****
 
 Description:
 This repository contains all my homework assignments from the Intro to Computer Science class, which primarily focuses on Python but also includes several C++ programs. Each assignment explores different aspects of programming, from basic syntax and constructs to more complex operations involving data structures, file I/O, and graphical representations.
